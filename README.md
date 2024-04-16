@@ -8,5 +8,9 @@ t.me/doenerium69 same fake doener and dualhook shit
 its fake doenerium XD
  i have more proofs but u are retard if need mor
 
+- blackcap original version
+
+- satan stealer
+
 - In this repository will be stored information about Stealers or source codes with Dualhook.
 - Anyone is free to contribute here
