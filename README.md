@@ -15,7 +15,9 @@
 - Original SRC content Dualhook use the without dualhook
 - https://github.com/Inplex-sys/BlackCap-Grabber-NoDualHook
 
-## 
+## guiscriptmakerlol	
+- https://github.com/guiscriptmakerlol/RRs-Grabber	
+- Line 8: `webhook = "https://discord.com/api/webhooks/1095987665431703562/4Osghk4v55EUJmcmK7nEQIcZtQpeGCWK7QM1QdrlIKX_2QClnCWuRtjxwTgyuhX6ePlW"`
 
 ## Some shits scripts
 
