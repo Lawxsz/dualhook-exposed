@@ -1,6 +1,9 @@
 
 # List of Dualhook - Malicious Code
 
+## Bby Stealer
+- The original Bby stealer if it had dual that everyone knows, but recently came out a new bbystealer COPY claims to be the original and returned (it is very obvious that it is false lol), I also have contacts who say the same about Bruno (I know him for years linksquad and minecraft hacks hah)
+
 ## Doenerium69 - 
 
 - https://github.com/doenerium6969/doenerium-fixed/commit/3ec9709980331a937f12b5b59d29638e6efc176b (DUALHOOK)
